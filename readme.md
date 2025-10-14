@@ -4,5 +4,5 @@ The topics are:
 
 - Stats
 - Maths
-- Coding
+- Coding (modifyning this line to test how the local behaved)
 - Added one line to test how reac the local vs the online
