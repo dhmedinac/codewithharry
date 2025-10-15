@@ -10,4 +10,6 @@ The topics are:
 thanks
 
 - Good bye 1
+- Good bye 2
+- Good bye 3
 
